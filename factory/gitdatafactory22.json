@@ -1,0 +1,9 @@
+{
+	"name": "gitdatafactory22",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a984c003-d574-4866-a07e-b1a3c09b79f6",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
