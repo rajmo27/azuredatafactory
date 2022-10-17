@@ -19,9 +19,9 @@
 						"referenceName": "dataflow1",
 						"type": "DataFlowReference"
 					},
-					"integrationRuntime": {
-						"referenceName": "integrationRuntimetest2",
-						"type": "IntegrationRuntimeReference"
+					"compute": {
+						"coreCount": 8,
+						"computeType": "General"
 					},
 					"traceLevel": "Fine"
 				}
