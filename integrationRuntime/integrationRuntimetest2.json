@@ -1,10 +1,10 @@
 {
-	"name": "integrationRuntimetest",
+	"name": "integrationRuntimetest2",
 	"properties": {
 		"type": "Managed",
 		"typeProperties": {
 			"computeProperties": {
-				"location": "East US",
+				"location": "West US",
 				"dataFlowProperties": {
 					"computeType": "General",
 					"coreCount": 16,
